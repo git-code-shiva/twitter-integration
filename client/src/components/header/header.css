@@ -1,0 +1,29 @@
+.header_container{
+    width: 100%;
+    height: 4rem;
+    background-color: bisque;
+}
+.home_icon{
+    font-family: cursive;
+    font-weight: 500;
+    font-size: large;
+    float: left;
+    margin-left: 15px;
+    padding-top: 1rem;
+    cursor: pointer;
+}
+.logout{
+    font-family: cursive;
+    font-weight: 500;
+    font-size: large;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    border-radius:30% ;
+    float: right;
+    margin-right: 25px;
+    margin-top: 1rem;
+}
+.logout:hover{
+    background-color: rgb(24, 27, 27);
+}

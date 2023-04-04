@@ -1,0 +1,24 @@
+.register_container{
+    width: 18rem;
+    height: 28rem;
+    border: 1px solid black;
+    background-color: antiquewhite;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+
+.register_body>form>input{
+    display: flex;
+    margin: auto;
+    height: 25px;
+}
+
+.register_body>form>button{
+    background-color: aquamarine;
+    border: none;
+    height: 35px;
+    width: 75px;
+    cursor: pointer;
+}
